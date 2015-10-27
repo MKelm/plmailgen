@@ -2,7 +2,7 @@
     "iparse": {
     },
     "igenphp": {
-        "senderEmail": "sender@domain.tld,
+        "senderEmail": "sender@domain.tld",
         "subject": "Some information"
     }
 }
