@@ -1,0 +1,8 @@
+{
+    "iparse": {
+    },
+    "igenphp": {
+        "senderEmail": "sender@domain.tld,
+        "subject": "Some information"
+    }
+}

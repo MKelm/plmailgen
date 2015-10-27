@@ -1,0 +1,8 @@
+node_modules
+config.json
+addresses.json
+input.txt
+mails.json
+mail.tpl
+mailall.php
+npm-debug.log

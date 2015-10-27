@@ -1,0 +1,25 @@
+{
+  "name": "PLMailGen",
+  "version": "0.1.0",
+  "homepage": "https://mkelm.github.io",
+  "authors": [
+    "Martin Kelm <martinkelm@shrt.ws>"
+  ],
+  "description": "People List Mail Generator",
+  "license": "MIT",
+  "main": "run.js",
+  "dependencies": {
+    "swig": "*"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "test",
+    "tests"
+  ],
+  "scripts": {
+      "iparse": "node ./iparse.js",
+      "imails": "node ./imails.js",
+      "igenphp": "node ./igenphp.js"
+  }
+}
