@@ -1,9 +1,6 @@
 # plmailgen
 People List Mail Generator
 
-## Install
-Command: npm install
-
 ## Preparation
 Change the script "iparse" entry in **package.json** to your needs.
 Espacially you can change the filter parameters. Afterwards, remove all first .tpl file 
@@ -17,6 +14,9 @@ config.json, properties:
 
 Finally you can change the email text in the mail.tpl file. You can define further variables
 for the template in imails.js inside of var output = template(...).
+
+## Dependencies
+Install command: npm install
 
 ## Run
 * Parse input.txt to json, command: npm run-script iparse
