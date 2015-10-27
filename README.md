@@ -11,7 +11,7 @@ extensions, e.g. mail.tpl.tpl to mail.tpl and open config.json afterwards.
 
 config.json, properties:
 * iparse.filter.cityName = string
-* iparse.filter.cityCode = string (code or >code or <code or >code, <code)
+* iparse.filter.cityCode = string ('code' or '>code' or '<code' or '>code, <code')
 * igenphp.senderEmail = string
 * igenphp.subject = string
 
